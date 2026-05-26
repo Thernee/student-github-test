@@ -1,1 +1,3 @@
 Hi, I'm Sani — a fullstack engineer from Nigeria who loves building practical tools with JavaScript, Python, and C. I've worked on backend systems for grad school search, file management with background jobs, and even a simple shell from scratch. I'm always curious, always learning, and enjoy turning ideas into clean, working code. When I'm not coding, I'm probably reading or tinkering with Linux.
+
+NB: Currrently doing my masters on modern software development
